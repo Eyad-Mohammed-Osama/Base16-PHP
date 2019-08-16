@@ -5,6 +5,7 @@ Encoding And Decoding Text Using Only 16 Characters
 First make sure you have `composer` installed on your device.
 
 From your terminal, navigate to your project folder and run this command:
+
 `composer require syrian-lucianos/base16-php`
 
 And that's all!
