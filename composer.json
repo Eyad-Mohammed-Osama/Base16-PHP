@@ -1,0 +1,7 @@
+{
+    "name" : "SyrianLucianos/Base16-PHP",
+    "description": "Encoding And Decoding Text Using Only 16 Characters",
+    "require": {
+        "php" : ">=5.0.0"
+    }
+}
